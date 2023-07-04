@@ -15,6 +15,7 @@ pip install -r requirements.txt
 ## Training Scripts
 
 LSVC: ['https://www.kaggle.com/vidmath25/lvc-v2/edit']
+
 LSTM: ['https://colab.research.google.com/drive/1lL7lIpuQlqq4U-tFel4aOuQWmUzrgK50#scrollTo=H0Zpp7NlU2aQ']
 
 ## Usage
