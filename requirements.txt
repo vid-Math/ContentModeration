@@ -115,7 +115,8 @@ QtPy==2.3.1
 requests==2.31.0
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
-scikit-learn==1.2.2
+#scikit-learn==1.2.2
+scikit-learn
 scipy==1.10.1
 seaborn==0.12.2
 Send2Trash==1.8.2
