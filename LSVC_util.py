@@ -11,6 +11,7 @@ import re
 
 import nltk
 nltk.download("wordnet")
+nltk.download('stopwords')
 
 
 # Create list of punctuation marks
