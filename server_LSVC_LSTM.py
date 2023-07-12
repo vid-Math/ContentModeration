@@ -3,6 +3,7 @@ from flask import Flask, request, jsonify, render_template
 import pickle
 
 from LSVC_util import *
+nltk.download("wordnet")
 
 import keras 
 from keras.utils import pad_sequences
